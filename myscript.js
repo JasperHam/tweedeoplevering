@@ -4,7 +4,7 @@ design.addEventListener('click',function(){
     design.classList.add('designanimation');
     
     setTimeout(function(){
-        window.location.href="https://jasperham.github.io/tweedeoplevering/media.html"
+        window.location.href="Media.html"
     },1000);
 })
 
@@ -16,7 +16,7 @@ main.addEventListener('click',function(){
     main.classList.add('mediaanimation');
     
     setTimeout(function(){
-        window.location.href="https://jasperham.github.io/tweedeoplevering/media.html"
+        window.location.href="Media.html"
     },1000);
 })
 
@@ -27,7 +27,7 @@ fashion.addEventListener('click',function(){
     fashion.classList.add('fashionanimation');
     
     setTimeout(function(){
-        window.location.href="https://jasperham.github.io/tweedeoplevering/media.html"
+        window.location.href="Media.html"
     },1000);
 })
 
